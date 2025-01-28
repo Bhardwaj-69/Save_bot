@@ -11,19 +11,19 @@
     "success_url": "https://t.me/Raj02_bots",
     "env": {
         "ID": {
-          "description": "Get this value from my.telegram.org",
+          "description": "26802657",
           "required": true
         },
         "HASH": {
-          "description": "Get this value from my.telegram.org",
+          "description": "db8a12648a96d83629391c8574d60d7f",
           "required": true
         },
         "TOKEN": {
-          "description": "Get this from @BotFather",
+          "description": "7896463258:AAGdaJMqNPdTLaA6Sy1pWGngnF9lOOAYeFM",
           "required": true
         },
         "STRING": {
-          "description": "Your telegram account session.  Get from @Venom_String_robot",
+          "description": "BQGY-eEAi7NAeLxjzCKShvoMmYxSBLBxAFeIrVJUXDfxMeMCDBhKvB-TIF-KT-zVXWaU-azBLzjVbBmSjmXoBxeOtz6uL8j7t9wgTNqMuY7ayLClfGP11Pz29rNewo647HgbjnRS0LF821h_gmjJMjBfxncBeY9zme3ixpTrAea0QSHhrDofFlNA4z4_wA1UQ6NvSo52GYIXZ2uJSCJnRoeWi_PYOtI_5Fmd5LMG4nofYGTr3Lc3yXMQqTLQrY-zlXb3NanKJP-7riVccAFsOkksml4JyIzi42I_k8tXyA9EOWz6FoGE3RuDRn1HFnbpXKQLtJedkR6B8-nep8iTbxCQIbPoJgAAAABvemUrAA",
           "required": true
         }
     },
