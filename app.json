@@ -11,19 +11,19 @@
     "success_url": "https://t.me/Raj02_bots",
     "env": {
         "ID": {
-          "description": "26802657",
+          "description": "27392387",
           "required": true
         },
         "HASH": {
-          "description": "db8a12648a96d83629391c8574d60d7f",
+          "description": "37ee47c18c8be62716a27335a771e7da",
           "required": true
         },
         "TOKEN": {
-          "description": "7896463258:AAGdaJMqNPdTLaA6Sy1pWGngnF9lOOAYeFM",
+          "description": "7339888650:AAGCOGVV1VdZoWih8bc3-shOWD2HWQ-L8T8",
           "required": true
         },
         "STRING": {
-          "description": "BQGY-eEAi7NAeLxjzCKShvoMmYxSBLBxAFeIrVJUXDfxMeMCDBhKvB-TIF-KT-zVXWaU-azBLzjVbBmSjmXoBxeOtz6uL8j7t9wgTNqMuY7ayLClfGP11Pz29rNewo647HgbjnRS0LF821h_gmjJMjBfxncBeY9zme3ixpTrAea0QSHhrDofFlNA4z4_wA1UQ6NvSo52GYIXZ2uJSCJnRoeWi_PYOtI_5Fmd5LMG4nofYGTr3Lc3yXMQqTLQrY-zlXb3NanKJP-7riVccAFsOkksml4JyIzi42I_k8tXyA9EOWz6FoGE3RuDRn1HFnbpXKQLtJedkR6B8-nep8iTbxCQIbPoJgAAAABvemUrAA",
+          "description": "BQGh-YMAwZHRQbTgTdVWzVPDODl7r96vVTUQbeDPlFnmcs4aPtup_e9XNwfA5HL02VXAUdU9rhDQbhDuwQZ9K7dMbcxc6YHZ7P984XD80aUpY7Uigz4AIap8B_QnDR7evz-Ngy5PsWbmeJ_cCqrPd6oWeMC5qpJI_zWrRuPt81rZbghnskwek6TDLHs9MpjDN5ejXfNDGDuAocqFQF0G7klFqLsiSocOrqrgj-zBqg3MGVhLn7OFODrX_d_7Y2KaCaUWLmJbrQahV8KQCcFTfJVGm36kiJK0EMzaVQcTyiHSM7enYvzyKIfFeoKjbDkATIcKezX7U9v1ylVtqj0L99_rSvSdPQAAAAFY9Bh0AA",
           "required": true
         }
     },
